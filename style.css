@@ -10,8 +10,11 @@ background-image: url(assets/bg.png);
 }
 
 @font-face {
-    font-family: 'bellerine', serif;
-    src: url("assets/font/bellerine_brush-webfont.woff") format('woff');
+    font-family: 'bellerine_brushregular';
+    src: url(assets/font/bellerine_brush-webfont.woff2) format('woff2'),
+         url(assets/font/bellerine_brush-webfont.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
 
 }
 
