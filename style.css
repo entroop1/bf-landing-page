@@ -10,8 +10,9 @@ background-image: url(assets/bg.png);
 }
 
 @font-face {
-    font-family: "bellerine";
+    font-family: 'bellerine', serif;
     src: url("assets/font/bellerine_brush-webfont.woff") format('woff');
+
 }
 
 ul {
@@ -74,7 +75,7 @@ li a{
 
 .hire{
     font-family: 'bellerine';
-    font-size: 4em;
+    font-size: 3.5em;
     color:#FF5100;
 }
 
@@ -101,8 +102,7 @@ position: absolute;
     margin-bottom:100px;
     text-align: center;
     font-family: 'Martel', serif;
-        font-weight: 600;
-
+    font-weight: 700;
     font-size: 3.3em;
     color:white;
     z-index: 100;
