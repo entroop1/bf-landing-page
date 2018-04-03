@@ -101,6 +101,8 @@ position: absolute;
     margin-bottom:100px;
     text-align: center;
     font-family: 'Martel', serif;
+        font-weight: 600;
+
     font-size: 3.3em;
     color:white;
     z-index: 100;
