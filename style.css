@@ -1,7 +1,7 @@
 html,body,div,span,object,iframe,h1,h2,h3,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;}
 
 body{
-    font-family: 'Martel';
+    font-family: 'Martel Sans', sans-serif;
     color:white;
 background-image: url(assets/bg.png);
     height:100vh;
@@ -95,7 +95,7 @@ position: absolute;
 #display{
     margin-bottom:100px;
     text-align: center;
-    font-family: 'Martel';
+    font-family: 'Martel Sans', sans-serif;
     font-size: 3.3em;
     color:white;
     z-index: 100;
