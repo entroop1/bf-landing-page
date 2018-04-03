@@ -9,6 +9,10 @@ background-image: url(assets/bg.png);
     overflow: hidden;
 }
 
+@font-face {
+    font-family: "bellerine";
+    src: url("assets/font/bellerine_brush-webfont.woff") format('woff');
+}
 
 ul {
     text-decoration: none;
@@ -69,7 +73,7 @@ li a{
 }
 
 .hire{
-    font-family: 'Bellerine Brush';
+    font-family: 'bellerine';
     font-size: 4em;
     color:#FF5100;
 }
