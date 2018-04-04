@@ -36,8 +36,8 @@ particlesJS('particles-js',
       },
       "image": {
         "src": "assets/image1.png",
-        "width": 100,
-        "height": 70
+        "width": 70,
+        "height": 100
       }
     },
     "opacity": {
@@ -51,7 +51,7 @@ particlesJS('particles-js',
       }
     },
     "size": {
-      "value": 15,
+      "value": 28,
       "random": true,
       "anim": {
         "enable": false,
